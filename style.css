@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #f2f2f2;
+}
+
+canvas {
+  border: 2px solid black;
+  background: white;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  cursor: pointer;
+}
